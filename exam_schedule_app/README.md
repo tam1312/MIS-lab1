@@ -1,6 +1,6 @@
 #Lab 1 MIS
 
 
-![Main screen](images/1.PNG)
-![Exam not active](images/2.PNG)
-![Exam active](images/3.PNG)
+![Main screen](images/1.png)
+![Exam not active](images/2.png)
+![Exam active](images/3.png)
